@@ -7,7 +7,7 @@ IntelliResponse is an autonomous tier-1 security operations center (SOC) triage 
 
 ---
 
-## 🚀 The 60-Second Demo (What Judges See)
+## 🚀 The Demo 
 
 1. **Beat 1: The Stateless Baseline (Memory OFF)**
    - Alert: Routine monthly port sweep / failed SSH login from internal scanner `198.51.100.7`.
