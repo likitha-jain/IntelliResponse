@@ -1,0 +1,9 @@
+streamlit>=1.35.0,<2
+pandas>=2.0.0,<4
+openai>=1.20.0,<3
+# Optional / for live Hindsight cloud connection:
+# hindsight-client>=0.1.0
+
+# Optional SIEM webhook API (api.py)
+fastapi>=0.115.0,<1
+uvicorn[standard]>=0.30.0,<1
