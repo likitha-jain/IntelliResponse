@@ -1,7 +1,7 @@
 # 🛡️ IntelliResponse — SOC Memory Agent
 ### *AI Agent That Learns from Every Security Verdict Using Hindsight*
 
-Built for the **Vectorize "AI Agents That Learn Using Hindsight" Hackathon**.
+Built for the **Vectorize "AI Agents That Learn Using Hindsight"**.
 
 IntelliResponse is an autonomous tier-1 security operations center (SOC) triage agent. Unlike stateless chatbots or basic vector search retrievers that forget past calls, IntelliResponse uses **Hindsight persistent memory** to turn analyst verdicts, repeat offender profiles, and past false-positive sources into a continuously learning decision layer.
 
